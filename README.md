@@ -23,31 +23,22 @@ I also wanted to see the location of all of the places that the HIPAA breaches o
 ![locationofhipaabreach](https://user-images.githubusercontent.com/23061309/31904160-0be786fe-b7f0-11e7-9fb2-db6e89eaebe7.png)
 Surprisingly, the laptop and server locations weren't number one. In clinical environments there often is a hesitance about technology because of fear of it being not as secure as paper. This chart helps to clearly ascertain the true top vulnerable location.
 
-Include figures or tables if needed. When you post an image put correct path (directory, filename) for your git (or local directory your md file is in). The example below works when there is a folder "images" which has "example.png" in the directory where this md file is in. The github should also include those correctly to render correctly on the web.
+![state](https://user-images.githubusercontent.com/23061309/31904409-ca94fe42-b7f0-11e7-97d4-8bcc95d79edd.png)
+This was a quick EDA I did for location and in the future I would like to clean it up by controlling for the population.
 
-example EDA visualization
-Figure 1: example graph title
-Example 	a 	b 	c 	d
-0 	0.85 	0.88 	0.86 	192
-1 	0.83 	0.94 	0.89 	196
-2 	0.99 	0.84 	0.91 	212
-Analysis methods
+Below is the quantile of amount of people effected by the HIPAA breaches.
+![quantile](https://user-images.githubusercontent.com/23061309/31904522-22fdae08-b7f1-11e7-9cab-8a5253ee353b.JPG)
 
-Describe your analysis methods and brief explanations on your assumption. Include figures or tables as needed.
-When writing analysis method, also explicitly mention which tools and libraries you used (imagine this is your portfolio to your future employer- you want to be as impressive as possible) Results from your analysis.
-Analysis 2 (optional)
 
-Describe your analysis methods. Include figures or tables as needed.
-Analysis results
-Results
+**Summary** 
 
-You can make model(s) comparison if you have multiple approaches. You may include any tables or graphs that summarizes your result(s). Your conclusion, any discussions on difficulties (why some approach didn't work), and any ideas how you may overcome those. If you have external demo website, you can include a link your webapp.
-Summary (optional)
+-CA is most affected (would like to further expand by controlling for population)
 
-Summarize your work and highlight your takeaways. You may include ideas on how you may improve the analysis, or future steps.
-References
 
-(list any reference such as journal papers, articles, or other's project repo you referenced for your project)
+-Paper/Films are the most vulnerable culprit to HIPAA breaches
 
-    example resource
-    example resource
+
+-The average amount of people effected is around 2300. 
+
+**Further Analysis**
+Including in this repo is a separate CSV containing just the web description of the HIPAA breaches. I am currently working on performing sentiment analysis on this description in order to gather some insight. I would also like to find the average amount of people effected for each breach type.
