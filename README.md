@@ -1,6 +1,5 @@
 **Healthcare Analytics: Focus on clinic efficiency**       
-    *HIPAA BREACHES* &
-    *NO-SHOW ANALYSIS*
+    *HIPAA BREACHES* 
 
 
 The motivation with this project is to increase clinic efficiency and focus into resources that will be most beneficial. 
