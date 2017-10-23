@@ -13,7 +13,10 @@ I acquired data from data.world:
    
 This data is tabulated and I used both R and Python to extract insight. The first thing I did after the initial data cleaning in R was begin the EDA by mapping out the amount of breaches by the year.
 ![hipaayear](https://user-images.githubusercontent.com/23061309/31903069-9bc27be8-b7ec-11e7-85e9-02b3683329c7.png)
-This EDA was proven useful because you can visualize the current trend.
+This EDA was proven useful because you can visualize the current trend. The next thing that I did in R was an EDA of which establishments are the most likely to report a HIPAA data breach.
+![hipaaEntityType](https://user-images.githubusercontent.com/23061309/31903419-a423e564-b7ed-11e7-9bac-c2f71ea75051.png)
+As you can see, healthcare providers are the most vulnerable. I wanted to also do an EDA of the breach type or the way that the breach occured. This was also done in R.
+![hipaaBreachType](https://user-images.githubusercontent.com/23061309/31903567-1a619dd4-b7ee-11e7-9de9-35bc90ec9ea3.png)
 
 
 Include figures or tables if needed. When you post an image put correct path (directory, filename) for your git (or local directory your md file is in). The example below works when there is a folder "images" which has "example.png" in the directory where this md file is in. The github should also include those correctly to render correctly on the web.
