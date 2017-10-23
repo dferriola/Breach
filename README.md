@@ -17,7 +17,11 @@ This EDA was proven useful because you can visualize the current trend. The next
 ![hipaaEntityType](https://user-images.githubusercontent.com/23061309/31903419-a423e564-b7ed-11e7-9bac-c2f71ea75051.png)
 As you can see, healthcare providers are the most vulnerable. I wanted to also do an EDA of the breach type or the way that the breach occured. This was also done in R.
 ![hipaaBreachType](https://user-images.githubusercontent.com/23061309/31903567-1a619dd4-b7ee-11e7-9de9-35bc90ec9ea3.png)
-
+Now that I was able to get a quick glimpse, I switched to python on the jupyter platform to do some extended EDA. Below is the extended type of HIPAA breach in descending order. 
+![extendedhipaaBreachType](https://user-images.githubusercontent.com/23061309/31904005-9796071c-b7ef-11e7-8ecc-f670cc3d3fbe.png)
+I also wanted to see the location of all of the places that the HIPAA breaches occured.
+![locationofhipaabreach](https://user-images.githubusercontent.com/23061309/31904160-0be786fe-b7f0-11e7-9fb2-db6e89eaebe7.png)
+Surprisingly, the laptop and server locations weren't number one. In clinical environments there often is a hesitance about technology because of fear of it being not as secure as paper. This chart helps to clearly ascertain the true top vulnerable location.
 
 Include figures or tables if needed. When you post an image put correct path (directory, filename) for your git (or local directory your md file is in). The example below works when there is a folder "images" which has "example.png" in the directory where this md file is in. The github should also include those correctly to render correctly on the web.
 
