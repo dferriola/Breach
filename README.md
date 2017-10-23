@@ -1,15 +1,15 @@
 **Healthcare Analytics: Focus on clinic efficiency**       
-    *HIPAA BREACHES
+    *HIPAA BREACHES* &
+    *NO-SHOW ANALYSIS*
 
 
-(The summary or abstract goes here:) This project is about analyzing .... using .... The motivation is .... The data is acquired from .... (using ... ). To see if ....., I used ....(list machine learning or data analysis methods).
-Data Collection and Cleaning
+The motivation with this project is to increase clinic efficiency and focus into resources that will be most beneficial. 
+Besides patient care, one of the lead things that effects clinic efficiency is the way data is controlled. When HIPAA is breached then clinical efficiency goes down. **Can we predict if there will be a data breach?** Are there characteristics that are likely to lead to a breach in data? Which is the **most insecure** way to have information stored?
 
-I acquired data from the two websites below:
-
-    data source 1 : brief description about the data source
-    data source 2 : brief description about the data source
-
+I acquired data from data.world:
+    [HIPAA Breaches](https://data.world/health/health-data-breaches)
+     
+   
 Describe your data, data collection methods and tools if any Describe data cleaning procedure if any.
 Describe your exploratory data analysis methods and results.
 
