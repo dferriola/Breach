@@ -41,4 +41,6 @@ Below is the quantile of amount of people effected by the HIPAA breaches.
 -The average amount of people effected is around 2300. 
 
 **Further Analysis**
-Including in this repo is a separate CSV containing just the web description of the HIPAA breaches. I am currently working on performing sentiment analysis on this description in order to gather some insight. I would also like to find the average amount of people effected for each breach type.
+
+
+Included in this repo is a separate CSV containing just the web description of the HIPAA breaches. I am currently working on performing sentiment analysis on this description in order to gather some insight. I would also like to find the average amount of people effected for each breach type.
