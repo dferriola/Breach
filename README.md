@@ -1,4 +1,4 @@
-**Healthcare Analytics: Focus on clinic efficiency**       
+#Healthcare Analytics: Focus on clinic efficiency       
     *HIPAA BREACHES* &
     *NO-SHOW ANALYSIS*
 
@@ -9,9 +9,11 @@ Besides patient care, one of the lead things that effects clinic efficiency is t
 I acquired data from data.world:
     [HIPAA Breaches](https://data.world/health/health-data-breaches)
      
+     
    
-This data is tabulated and I used both R and Python to extract insight.
-
+This data is tabulated and I used both R and Python to extract insight. The first thing I did after the initial data cleaning in R was begin the EDA by mapping out the amount of breaches by the year.
+![hipaayear](https://user-images.githubusercontent.com/23061309/31903069-9bc27be8-b7ec-11e7-85e9-02b3683329c7.png)
+This EDA was proven useful because you can visualize the current trend.
 
 
 Include figures or tables if needed. When you post an image put correct path (directory, filename) for your git (or local directory your md file is in). The example below works when there is a folder "images" which has "example.png" in the directory where this md file is in. The github should also include those correctly to render correctly on the web.
