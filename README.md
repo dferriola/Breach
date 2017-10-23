@@ -10,15 +10,9 @@ I acquired data from data.world:
     [HIPAA Breaches](https://data.world/health/health-data-breaches)
      
    
-Describe your data, data collection methods and tools if any Describe data cleaning procedure if any.
-Describe your exploratory data analysis methods and results.
+This data is tabulated and I used both R and Python to extract insight.
 
-Below are some made-up examples
-Ex1: The data has 42,000 samples and 12 features including ...(list a few that you think important), and is all numeric values and has no null values. The label is the transaction amount in dollar which values between 10 and 499.
 
-Ex2: The data was acquired from 2 sources and they consist of 3 tables. Table 1 contains school information and their internal evaluation data. Table 2 contains demographic and socioeconomic data by zip code. I joined them using SQL (or Pandas), then cleaned data by (your data cleaning methods).
-
-Ex3: The train dataset has 12000 images in jpeg format. The image sizes are all different, so I rescaled to 100x100 pixels. All pixel values are standardized such that it has zero mean and pixel values are between -0.5 to 0.5.
 
 Include figures or tables if needed. When you post an image put correct path (directory, filename) for your git (or local directory your md file is in). The example below works when there is a folder "images" which has "example.png" in the directory where this md file is in. The github should also include those correctly to render correctly on the web.
 
