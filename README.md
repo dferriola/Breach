@@ -1,4 +1,4 @@
-#Healthcare Analytics: Focus on clinic efficiency       
+**Healthcare Analytics: Focus on clinic efficiency**       
     *HIPAA BREACHES* &
     *NO-SHOW ANALYSIS*
 
